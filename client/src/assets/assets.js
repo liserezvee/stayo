@@ -243,9 +243,9 @@ export const userBookingsDummyData = [
         "createdAt": "2025-04-10T06:41:20.501Z",
         "updatedAt": "2025-04-10T06:41:20.501Z",
         "__v": 0
-    }
+    },
 ]
-
+    
 // Dashboard Dummy Data
 export const dashboardDummyData = {
     "totalBookings": 3,

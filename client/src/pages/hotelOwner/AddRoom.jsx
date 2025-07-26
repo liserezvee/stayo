@@ -21,7 +21,7 @@ const AddRoom = () => {
     },
   });
   return (
-   <div>
+   <div >
      <form>
       <Title
         align="left"
